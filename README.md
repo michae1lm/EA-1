@@ -31,7 +31,7 @@ Progress: 13.33%
 - Reflection report
 
 ## Proof of Participation
-See `/proof` folder for:
+See `proof` folder for:
 - Activity report screenshots showing time spent (~11.5 hours)
 - Progress and module completion
 
