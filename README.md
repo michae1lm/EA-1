@@ -39,4 +39,4 @@ See `proof` folder for:
 This activity directly supports my goal of becoming a cybersecurity professional focused on defensive security and SOC analysis. The knowledge gained here is foundational for certifications like Security+ and real-world security roles.
 
 ## Technical Decisions & Architecture
-During this activity, I focused on understanding how different security domains connect, such as how vulnerabilities lead to exploits and how system design helps prevent them. I prioritized learning real-world applications of security concepts instead of just memorization, especially in areas like network security and incident response.
+During this activity, I focused on understanding how different security domains connect, such as how vulnerabilities lead to exploits and how system design helps prevent them. I prioritized learning real-world applications of security concepts instead of just memorization, especially in areas like network security and incident response. One key consideration was the trade-off between security and usability, since stronger protections can sometimes reduce system performance or user convenience.
