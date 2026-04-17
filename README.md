@@ -37,3 +37,6 @@ See `proof` folder for:
 
 ## Career Relevance
 This activity directly supports my goal of becoming a cybersecurity professional focused on defensive security and SOC analysis. The knowledge gained here is foundational for certifications like Security+ and real-world security roles.
+
+## Technical Decisions & Architecture
+During this activity, I focused on understanding how different security domains connect, such as how vulnerabilities lead to exploits and how system design helps prevent them. I prioritized learning real-world applications of security concepts instead of just memorization, especially in areas like network security and incident response.
